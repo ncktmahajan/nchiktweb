@@ -10,11 +10,16 @@ export default {
   ],
   theme: {
     extend: {
+      
       fontFamily: {
         sans: ["Montserrat", 'Yatra One' ],
-        serif : ['Yatra One']
+        serif : ['Montserrat']
+      },
+      blur: {
+        xs: '4px',
       },
     },
+    
   },
   darkMode: "class",
   plugins: [nextui()]
