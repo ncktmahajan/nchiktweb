@@ -84,5 +84,5 @@ I'm always open to feedback, collaborations, or opportunities. Feel free to conn
 
 - **Portfolio**: [nchiktweb.vercel.app](https://nchiktweb.vercel.app)
 - **Behance**: [Nachiket Mahajan](https://www.behance.net/nachiketmahajan)
-- **Email**: [Your Email Address]
+- **Email**: mahajnnchikt@gmail.com
 
